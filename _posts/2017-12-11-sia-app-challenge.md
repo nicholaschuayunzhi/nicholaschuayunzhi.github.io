@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIA App Challenge 17"
+title: "Singapore Stopover Holiday"
 img: sia2017.png # Add image post (optional)
 date: 2017-12-12 12:55:00 +0300
 description: Mobile Application for SIA App Challenge 2017 # Add post description (optional)

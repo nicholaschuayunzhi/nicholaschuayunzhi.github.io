@@ -1,9 +1,7 @@
 logo: nich # add logo name
 title: Nicholas Chua
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Nicholas Chua's portfolio site!
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -18,7 +16,7 @@ author-pic: profile.png # your photo
 author-name: Nicholas Chua # your name
 about-author: Year 2 Computer Science Student at National University of Singapore #about author
 email: nicholaschuayunzhi@gmail.com # your email
-phone: (496)-169-6557 # your pnone number
+phone:  # your pnone number
 website: https://github.com/nicholaschuayunzhi # you website
 
 # Social link
