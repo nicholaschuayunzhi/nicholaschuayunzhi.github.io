@@ -52,6 +52,7 @@ extensions = ["hardLineBreak"]
         title = "Portfolio"
 
         [params.portfolio.modal]
+            skills = "Skills"
             client = "Client"
             date = "Date"
             category = "Category"
