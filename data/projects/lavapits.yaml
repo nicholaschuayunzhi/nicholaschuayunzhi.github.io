@@ -1,0 +1,19 @@
+modalID: 2
+title: Lava Pits
+logo: lavapits.png
+img: lavapits.png
+skills: C#, Unity,
+category: Game Development, Maze Generation, Algorithms
+description: >
+    Inspired by our CS2020 Final Assignment on Maze Generation and Path Finding,
+    a friend and I decided to develop a hexagonal maze in Unity.
+
+
+    We modified our Java code for square grid maze to support 6 sides and wrote
+    a C# Script for it. The maze is generated using recursive backtracking.
+
+
+    I worked on the maze generation and pathfinding in C#.
+
+
+    Try out our game [here](https://amrq.itch.io/cs1020k)!

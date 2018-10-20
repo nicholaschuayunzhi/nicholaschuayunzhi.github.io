@@ -1,0 +1,20 @@
+modalID: 3
+title: collaborate
+logo: collaborate.png
+img: collaborate.png
+skills: React, Redux, Socket.io
+category: Web Development
+description: >
+  For NUS’s Orbital 2017, my partner and I developed collaborate!, an online
+  collaborative web application that simulates a table top discussion for
+  projects/teaching/learning while leveraging on technology.
+
+
+  collaborate! won an honourable mention in the Apollo 11 category, which is the
+  highest tier in the Orbital project.
+
+
+  I worked on the frontend, using React + Redux with Socket.io.
+
+
+  Try it out here!

@@ -1,0 +1,18 @@
+modalID: 6
+title: thisplace
+logo: thisplace-logo.png
+img: thisplace.png
+category: Game Development
+skills: Unity, C#
+description: |
+    this.place is a puzzle platformer that incorporates block pulling developed in **Unity**.
+
+
+    I worked with a team of 5 as the **lead programmer**, designing the underlying architecture of the block
+    behaviours.
+
+    I developed a plugin system with **ScriptableObjects** to allow for modular block behaviours.
+    I also developed **seamless level loading** and contributed to the **post processing/lighting**.
+
+
+    The game won 2nd at The 12th SoC Term Project Showcase. [Trailer](https://youtu.be/WkXQZ-q83Zo)
