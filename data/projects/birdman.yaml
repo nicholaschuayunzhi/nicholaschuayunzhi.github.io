@@ -8,9 +8,9 @@ description: |
     Birdman the Renegade is a 3rd person procedural dungeon crawler where you must fight your way through
     waves of enemies.
 
-    This game was developed as part of Georgia Tech's VGDev Club.
+    This game was developed in **Unity** as part of Georgia Tech's VGDev Club.
 
     I contributed an enemy called Hammy (the hammerhead). I created his Model, Textures and Animations using
-    *Blender*. I also designed his AI using *State Machines* and *Behaviour Trees*.
+    **Blender**. I also designed his AI using **State Machines** and **Behaviour Trees**.
 
     You can watch some gameplay [here](https://youtu.be/OHYYJ6RmfOo).
